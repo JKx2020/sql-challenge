@@ -20,3 +20,10 @@ After the data modeling and engineering I did the below queries on the data:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+
+To Run:
+1. open PGAdmin and go to your Postgres account
+2. import the CSV files
+3. run the "QuickDBD-export (5).sql" code to create your tabkes, map primary keys and and foreign keys
+4. each query is saved separately, so you can pick and choose between each to get your desired results
+
